@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaishreeJanu
+- 👋 Hi, I’m Jaishree!!
 - 👀 I’m interested in data exploration and building Machine Learning and Deep Learning Models.
 - 🌱 I’m currently making my foot strong in Data Science foundations.
 - 💞️ I’m looking to collaborate teams which work on challenging datasets and solve exciting problems.
