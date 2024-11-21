@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaishree!!
-- 👀 I’m interested in data exploration and building Machine Learning and Deep Learning Models.
-- 🌱 I’m currently making my foot strong in Data Science foundations.
-- 💞️ I’m looking to collaborate with teams which work on challenging datasets and solve exciting problems.
+- 👀 I’m interested in developing solutions for Machine Learning pipelines and model deployments.
+- 🌱 I’m currently making my foot strong in Machine Learning Engineering.
+- 💞️ I’m looking to collaborate with teams who work advanced technology and challenging tasks.
 - 📫 I can be reached over email: janujaishree94@gmail.com
 
 <!---
